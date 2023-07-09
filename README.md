@@ -9,6 +9,11 @@
 
 ## 安装教程
 
+### 0.准备工作
+
+- 下载压缩包，解压后随便重命名为任意文件夹，比如"Tiktok_Downloader"
+- 因为还不会在GitHub中上传大文件，所以将chrome文件放在其他托管云盘（免登录+不限速，放心下载），先把网址URL复制到浏览器中下载压缩包，解压出来重命名为`Chrome`，并将此文件夹复制到Tiktok_Downloader文件夹中
+
 ### 1.检查是否有python环境
 
 - windows键 + R，输入`cmd`，回车确认打开命令行窗口，输入`python --version`查看python版本，若出现“Python 3.xx.x”字样说明电脑存在python环境，跳过步骤2执行步骤3
